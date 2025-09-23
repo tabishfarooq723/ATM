@@ -1,0 +1,10 @@
+run:
+Enter PIN: 1234
+Login successful!
+
+==== ATM Menu ====
+1) Deposit
+2) Withdraw
+3) Check Balance
+4) Exit
+Choice: 
